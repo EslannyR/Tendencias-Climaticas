@@ -25,7 +25,7 @@ clima_proyecto/
 ## Datasets
 
 ### 1. NOAA Global Land and Ocean Temperature Anomalies
-- **Fuente**: National Centers for Environmental Information (NOAA)
+- **Fuente**: National Centers for Environmental Information (NCEI) de la NOAA.
 - **Período**: 1958-2025 (68 años)
 - **Variable**: Anomalía de temperatura global (°C) respecto al promedio 1901-2000
 - **Acceso**: [NOAA Global Temperature Anomalies](https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series/globe/land_ocean/tavg/1/8/1850-2025) - Julio 2025
