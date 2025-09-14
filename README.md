@@ -141,8 +141,8 @@ Este proyecto forma parte de un portafolio de ciencia de datos enfocado en anál
 ## Contacto
 
 **Eslanny Ramírez** - Analista de Datos
-- GitHub: [\[tu-usuario\]](https://github.com/EslannyR)
-- LinkedIn: [\[tu-perfil\]](https://www.linkedin.com/in/eslannyramirez/)
+- GitHub: [\[@EslannyR\]](https://github.com/EslannyR)
+- LinkedIn: [\[@EslannyRamirez\]](https://www.linkedin.com/in/eslannyramirez/)
 
 ---
 
